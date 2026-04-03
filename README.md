@@ -3,49 +3,42 @@
 </p>
 
 <p align="center">
-  <strong>Practical AI collaboration, reusable skills, and learning loops.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/cnfjlhj/ai-collab-playbook"><strong>Start Here</strong></a> · <a href="https://github.com/cnfjlhj/completion-learn">completion-learn</a> · <a href="https://github.com/cnfjlhj/collaborating-with-codex">collaborating-with-codex</a> · <a href="https://github.com/cnfjlhj/prompt-polisher">prompt-polisher</a>
+  <a href="https://github.com/cnfjlhj/ai-collab-playbook"><strong>Start Here</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/cnfjlhj/completion-learn">completion-learn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/cnfjlhj/collaborating-with-codex">collaborating-with-codex</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/cnfjlhj/prompt-polisher">prompt-polisher</a>
 </p>
 
 ---
 
-我公开的是我真正会反复使用的 AI 协作方法、Skills 和工作流，不是零散技巧合集。
+I publish AI collaboration workflows, skills, and learning loops that I actually use in research and coding.
 
-If you are new here, start with `ai-collab-playbook` for the overall method and `completion-learn` for the learning loop.
+My core belief: **grow yourself first, then fix collaboration, then evolve tools.** Most people do it backwards.
 
-我现在最关心的顺序也很简单：
-
-> **Self → Collaboration → Tool**
-
-先把人自己变强，再把人和工具的协作做顺，最后才让工具栈持续进化。
+If you're new here, start with [ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) for the method and [completion-learn](https://github.com/cnfjlhj/completion-learn) for the learning loop.
 
 ## Start Here
 
-| 你想解决什么 | 先看哪里 |
-|------|------|
-| 想看我整体的 AI 协作方法论 | [ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) |
-| 想把“任务做完”变成“自己变强” | [completion-learn](https://github.com/cnfjlhj/completion-learn) |
-| 想让第二个 Codex 会话做 sidecar / 第二意见 | [collaborating-with-codex](https://github.com/cnfjlhj/collaborating-with-codex) |
+| What you're looking for | Where to go |
+|---|---|
+| The full AI collaboration playbook | [ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) |
+| Turn finished tasks into personal growth | [completion-learn](https://github.com/cnfjlhj/completion-learn) |
+| Use a second Codex session as sidecar | [collaborating-with-codex](https://github.com/cnfjlhj/collaborating-with-codex) |
 
-## Selected Repositories
+## Repositories
 
-| Repo | One-line promise |
-|------|------|
-| [ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) | 面向科研、写作、阅读和编程的 AI 协作总手册 |
-| [completion-learn](https://github.com/cnfjlhj/completion-learn) | 一个三轴成长复盘 skill：先自我，再协作，最后工具 |
-| [collaborating-with-codex](https://github.com/cnfjlhj/collaborating-with-codex) | 把当前工作流接到第二个 Codex CLI 会话上做原型、review 和第二意见 |
-| [prompt-polisher](https://github.com/cnfjlhj/prompt-polisher) | 把粗糙需求整理成可执行 prompt |
-| [writing-anti-ai](https://github.com/cnfjlhj/writing-anti-ai) | 把中文或英文写作改得更自然，减少 AI 味 |
+| Repo | What it does |
+|---|---|
+| [ai-collab-playbook](https://github.com/cnfjlhj/ai-collab-playbook) | AI collaboration handbook for research, writing, reading, and coding |
+| [completion-learn](https://github.com/cnfjlhj/completion-learn) | Post-task learning loop: self → collaboration → tool |
+| [collaborating-with-codex](https://github.com/cnfjlhj/collaborating-with-codex) | Connect a second Codex CLI for prototyping, review, and second opinions |
+| [prompt-polisher](https://github.com/cnfjlhj/prompt-polisher) | Turn rough notes into executable prompts |
+| [writing-anti-ai](https://github.com/cnfjlhj/writing-anti-ai) | Make AI-generated writing sound human again |
 
 ## Themes
 
-- AI collaboration that is actually usable in real research and coding workflows
-- Skills that reduce ambiguity instead of adding ceremony
+- AI collaboration that works in real research and coding workflows
+- Skills that reduce ambiguity, not add ceremony
 - Learning loops that improve the human before over-optimizing the tool
 
-## Note
-
-公开仓不是我本地所有私有配置的镜像，而是我愿意同步出来、并且应该足够清楚、足够可用、足够能被别人拿去复用的版本。
+Everything published here is meant to be clear enough and complete enough to reuse directly.
