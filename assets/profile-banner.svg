@@ -1,0 +1,48 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="70" x2="1500" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EFE4"/>
+      <stop offset="0.45" stop-color="#EDE6D9"/>
+      <stop offset="1" stop-color="#DDD6C8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFDF8" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#F7F1E7" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1600" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#40311A" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="32" fill="url(#bg)"/>
+  <circle cx="1410" cy="92" r="170" fill="#D4954A" fill-opacity="0.14"/>
+  <circle cx="190" cy="458" r="150" fill="#7C9B7B" fill-opacity="0.12"/>
+  <path d="M0 430C210 382 381 504 603 470C847 433 984 268 1244 297C1388 312 1497 375 1600 432V560H0V430Z" fill="#C7D4C0" fill-opacity="0.28"/>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="72" width="1456" height="416" rx="28" fill="url(#card)"/>
+  </g>
+
+  <text x="128" y="172" fill="#43331E" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">cnfjlhj</text>
+  <text x="130" y="224" fill="#65563E" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="28">
+    Practical AI collaboration, reusable skills, and learning loops
+  </text>
+  <text x="130" y="262" fill="#65563E" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="28">
+    for research, writing, reading, and coding.
+  </text>
+
+  <rect x="130" y="314" width="352" height="112" rx="22" fill="#FFF6E7"/>
+  <rect x="132" y="316" width="348" height="108" rx="20" stroke="#D8B17D"/>
+  <text x="160" y="362" fill="#6A4422" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">Self first</text>
+  <text x="160" y="398" fill="#826244" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="23">Rebuild attention and judgment.</text>
+
+  <rect x="528" y="314" width="392" height="112" rx="22" fill="#F0F7EE"/>
+  <rect x="530" y="316" width="388" height="108" rx="20" stroke="#A6BEA0"/>
+  <text x="558" y="362" fill="#294231" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">Collaboration second</text>
+  <text x="558" y="398" fill="#4B6551" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="23">Make the human-tool loop actually usable.</text>
+
+  <rect x="966" y="314" width="432" height="112" rx="22" fill="#FCF2E6"/>
+  <rect x="968" y="316" width="428" height="108" rx="20" stroke="#D6A96B"/>
+  <text x="996" y="362" fill="#6A4720" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">Tools third</text>
+  <text x="996" y="398" fill="#7C5B35" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="23">Turn stable workflows into reusable skills.</text>
+</svg>
